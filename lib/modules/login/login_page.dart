@@ -38,7 +38,7 @@ class _LoginPageState extends State<LoginPage> {
               ),
             ),
             Positioned(
-              bottom: 200,
+              bottom: 100,
               left: 0,
               right: 0,
               child: Column(
